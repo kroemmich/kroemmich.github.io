@@ -13,7 +13,7 @@ Education
 ======
 * B.A. in Philosophy, Southern Methodist University, 2011
 * B.A. in English, Southern Methodist University, 2011
-* Ph.D in Information, University of Michigan (2020-present)
+* Ph.D in Information, University of Michigan, 2020-present
 
 Work experience
 ======
@@ -44,4 +44,4 @@ Advocacy, service, affiliations, and membership
 ======
 * The Center for Ethics, Society, and Computing, researcher
 * Association for Computing Machinery (ACM), member
-* Mijente, member
+
