@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Philosophy, Southern Methodist University, 2011
+* B.A. in English, Southern Methodist University, 2011
+* Ph.D in Information, University of Michigan (2020-present)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2011-2012: Healthcare & Benefits Consulting
+* 2013-2019: Human Resources Information Systems
+* 2020-2022: Graduate Student Research Assistant
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantitative: experimental surveys, data mining, machine learning
+  * R, Python, SQL    
+* Qualitative: in-depth interviews, content analysis, speculative fiction
+* SME: enterprise systems configuration, design, and implementation; data management and governance
 
 Publications
 ======
@@ -54,6 +46,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Advocacy, service, affiliations, and membership
 ======
-* Currently signed in to 43 different slack teams
+* The Center for Ethics, Society, and Computing | Researcher
+* Association for Computing Machinery (ACM) | Member
+* Mijente | Member
