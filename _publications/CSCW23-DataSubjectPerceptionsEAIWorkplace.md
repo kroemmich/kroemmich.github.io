@@ -1,14 +1,15 @@
 ---
-title: "Data Subjects' Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens"
+title: "Paper Title Number 1"
 collection: publications
-permalink: [https://github.com/kroemmich/kroemmich.github.io/blob/83e6b6463ca68025f76c625dfc99290c0268aca5/files/CSCW22___Values_in_EAI_Hiring_Services__Technosolutions_to_Organizational_Problems_PREPRINT-1.pdf](https://github.com/kroemmich/kroemmich.github.io/blob/447b9d1559f38cb5323523159f86181bbae8513d/files/CSCW_2023_EAI_Data_Subjects_Workplace-PREPRINT.pdf)
-excerpt: 'We argue that EAI may magnify, rather than alleviate, existing challenges data subjects face in the workplace and suggest that some EAI-inflicted
-harms would persist even if concerns of EAI’s accuracy and bias are addressed.'
-date: 2023-10-01
-venue: 'Proceedings of the ACM on Human-Computer Interaction'
-paperurl: '[http://kroemmich.github.io/files/CSCW22___Values_in_EAI_Hiring_Services__Technosolutions_to_Organizational_Problems_PREPRINT-1.pdf](http://kroemmich.github.io/files/CSCW_2023_EAI_Data_Subjects_Workplace-PREPRINT.pdf)'
-citation: 'Kat Roemmich, Shanley Corvite, Tillie Rosenberg, Nazanin Andalibi. Data Subjects' Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens. (Submitted July 2022, accepted November 2022). Forthcoming in CSCW 2023. Both authors contributed equally'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-[Download paper here](https://kroemmich.github.io/files/CSCW_2023_EAI_Data_Subjects_Workplace-PREPRINT.pdf
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
