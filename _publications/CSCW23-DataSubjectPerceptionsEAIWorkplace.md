@@ -10,6 +10,5 @@ paperurl: 'http://kroemmich.github.io/files/CSCW_2023_EAI_Data_Subjects_Workplac
 citation: 'Shanley Corvite*, Kat Roemmich*, Tillie Rosenberg, Nazanin Andalibi. Data Subjects' Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens. (Submitted July 2022, accepted November 2022). Forthcoming in CSCW 2023. *both authors contributed equally'
 ---
 
-
 [Download paper here](https://kroemmich.github.io/files/CSCW_2023_EAI_Data_Subjects_Workplace-PREPRINT.pdf)
 
