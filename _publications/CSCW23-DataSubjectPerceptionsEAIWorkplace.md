@@ -6,7 +6,7 @@ excerpt: 'We argue that EAI may magnify, rather than alleviate, existing challen
 date: 2023-10-01
 venue: 'Proceedings of the ACM on Human-Computer Interaction'
 paperurl: 'http://kroemmich.github.io/files/CSCW22___Values_in_EAI_Hiring_Services__Technosolutions_to_Organizational_Problems_PREPRINT-1.pdf'
-citation: 'Kat Roemmich and Shanley Corvite <i>equal contribution</i>, Tillie Rosenberg, Nazanin Andalibi. &quot;Data Subjects' Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens.&quot; <i>Forthcoming in CSCW23</i>.'
+citation: 'Kat Roemmich and Shanley Corvite, Tillie Rosenberg, Nazanin Andalibi. &quot;Data Subjects' Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens.&quot; <i>Forthcoming in CSCW23</i>.'
 
 ---
 
