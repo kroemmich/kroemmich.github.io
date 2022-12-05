@@ -6,7 +6,7 @@ excerpt: 'We argue that EAI may magnify, rather than alleviate, existing challen
 date: 2023-10-01
 venue: 'Proceedings of the ACM on Human-Computer Interaction'
 paperurl: 'http://kroemmich.github.io/files/CSCW22___Values_in_EAI_Hiring_Services__Technosolutions_to_Organizational_Problems_PREPRINT-1.pdf'
-citation: 'Kat Roemmich and Shanley Corvite (equal contribution), Tillie Rosenberg, Nazanin Andalibi. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Kat Roemmich and Shanley Corvite (equal contribution), Tillie Rosenberg, Nazanin Andalibi. (2023). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 
 
 
