@@ -1,7 +1,7 @@
 ---
 title: "Data Subjects' Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens"
 collection: publications
-permalink: [/publication/2009-10-01-paper-title-number-1](https://github.com/kroemmich/kroemmich.github.io/blob/447b9d1559f38cb5323523159f86181bbae8513d/files/CSCW_2023_EAI_Data_Subjects_Workplace-PREPRINT.pdf)
+permalink: https://github.com/kroemmich/kroemmich.github.io/blob/447b9d1559f38cb5323523159f86181bbae8513d/files/CSCW_2023_EAI_Data_Subjects_Workplace-PREPRINT.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
