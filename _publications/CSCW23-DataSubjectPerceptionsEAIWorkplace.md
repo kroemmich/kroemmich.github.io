@@ -7,7 +7,7 @@ harms would persist even if concerns of EAI’s accuracy and bias are addressed.
 date: 2023-10-01
 venue: 'Proceedings of the ACM on Human-Computer Interaction'
 paperurl: 'http://kroemmich.github.io/files/CSCW_2023_EAI_Data_Subjects_Workplace-PREPRINT.pdf'
-citation: 'Shanley Corvite*, Kat Roemmich*, Tillie Rosenberg, Nazanin Andalibi. Data Subjects' Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens.  (submitted July 2022, accepted November 2022). Forthcoming in CSCW 2023. * the first two authors contributed equally.'
+citation: 'Shanley Corvite*, Kat Roemmich*, Tillie Rosenberg, Nazanin Andalibi. Data Subjects' Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens. (Submitted July 2022, accepted November 2022). Forthcoming in CSCW 2023. *both authors contributed equally'
 ---
 
 
