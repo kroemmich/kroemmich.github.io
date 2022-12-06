@@ -13,6 +13,6 @@ citation: 'Kat Roemmich and Shanley Corvite (equal contribution), Tillie Rosenbe
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf](https://kroemmich.github.io/files/CSCW_2023_EAI_Data_Subjects_Workplace-PREPRINT.pdf)
+[Download paper here](https://kroemmich.github.io/files/CSCW_2023_EAI_Data_Subjects_Workplace-PREPRINT.pdf)
 
 
