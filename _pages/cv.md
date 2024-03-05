@@ -44,8 +44,8 @@ Talks
 
 Awards
 ======
-Best Paper Award, CSCW 2023, Data Subjects’ Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens
-Honorable Mention for Best Paper Award, CSCW 2021, Data Subjects’ Conceptualizations of and Attitudes Toward Automatic Emotion Recognition-Enabled Wellbeing Interventions on Social Media
+* Best Paper Award, CSCW 2023, Data Subjects’ Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens
+* Honorable Mention for Best Paper Award, CSCW 2021, Data Subjects’ Conceptualizations of and Attitudes Toward Automatic Emotion Recognition-Enabled Wellbeing Interventions on Social Media
 
 Grants and Funding
 ======
