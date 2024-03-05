@@ -21,12 +21,13 @@ Work experience
 * 2011-2012: Healthcare & Benefits Consulting
 * 2013-2019: Human Resources Information Systems
 * 2020-2022: Graduate Student Research Assistant
+* 2023-2024: Graduate Student Instructor
 
 Skills
 ======
 * Quantitative: experimental surveys, data mining, machine learning
   * R, Python, SQL    
-* Qualitative: in-depth interviews, content analysis, speculative fiction
+* Qualitative: in-depth interviews, content analysis, theory
 * SME: enterprise systems configuration, design, and implementation; data management and governance
 
 Publications
@@ -43,15 +44,23 @@ Talks
 
 Awards
 ======
+Best Paper Award, CSCW 2023, Data Subjects’ Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens
 Honorable Mention for Best Paper Award, CSCW 2021, Data Subjects’ Conceptualizations of and Attitudes Toward Automatic Emotion Recognition-Enabled Wellbeing Interventions on Social Media
 
 Grants and Funding
 ======
-* UM Rackham Merit Fellow, 2020-present
+* UMSI Merit Fellow, 2020-2021
 * USENIX Security Diversity Grant, 2020
 * UMSI PhD Travel Grant, 2020
 * UMSI PhD Travel Grant, 2021
 * UM Rackham Graduate Student Research Grant, 2021
+* UM Rackham Conference Travel Grant, 2023
+* UMSI PhD Travel Grant, 2023
+* USENIX GREPSEC VI Grant, 2023
+* IAPP Privacy, Security, and Risk Conference Scholarship, 2023
+* Gary Marsden Travel Award, 2023
+* UM Rackham Conference Travel Grant, 2024
+
 
 
 Service, affiliations, and membership
