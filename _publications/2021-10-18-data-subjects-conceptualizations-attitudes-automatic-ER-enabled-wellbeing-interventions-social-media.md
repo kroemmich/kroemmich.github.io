@@ -1,5 +1,4 @@
 ---
----
 title: "Data Subjects’ Conceptualizations of and Attitudes Toward Automatic Emotion Recognition-Enabled Wellbeing Interventions on Social Media"
 collection: publications
 permalink: https://doi.org/10.1145/3476049
