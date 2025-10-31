@@ -16,18 +16,18 @@ Education
 
 Work experience
 ======
-* 2010-2011: Research Associate | Education Policy
-* 2011-2012: Healthcare Consulting | Employer-sponsored Benefits Plans
-* 2013-2019: Human Resources Information Systems | ERP Implementation, Master Data Management and Governance, Change Management
-* 2020-2025: Doctoral Student | AI Ethics, Privacy, and Policy Researcher, Graduate Student Instructor
-* 2025-present: Research Associate | AI Governance, Strategy, and Research 
+* 2010-2011: Research Associate; Education Policy @ John G. Tower Center for Political Studies, Southern Methodist University
+* 2011-2012: Healthcare Consulting; Claims Analysis for Employer-sponsored Benefits Plans @ Compass Professional Health Services
+* 2013-2019: Human Resources Information Systems; Digital Transformation, Change Management, and Governance (ERP Systems Implementation) @ Ascension Health, Cielo Talent, Domino's Pizza, Meritor, DynCorp International
+* 2020-2025: Doctoral Student; AI Ethics, Privacy, and Policy Researcher, Graduate Student Instructor @ University of Michigan
+* 2025-present: Research Associate; AI Governance and Privacy Research @ University of Michigan
 
 Skills
 ======
-* Evidence-based AI Strategy and Governance | Enterprise Readiness, Risk Management and Compliance, Impact and Safety Assessments, AI Policy and Regulation 
-* Program and Change Management | Digital Transformation, Cross-functional Project Delivery, Governance Implementation, Policy and Framework Development
-* Research and Evaluation | Mixed Methods Design, Execution, and Analysis (Surveys, Experiments, Interviews, Content Analysis, Ethnography, Computational Analysis) 
-* Technical and Systems Expertise | Python, R, SQL, ERP Systems (Healthcare, Workforce Management)
+* Evidence-based AI Strategy and Governance: Enterprise Readiness, Risk Management and Compliance, Impact and Safety Assessments, AI Policy and Regulation 
+* Program and Change Management: Digital Transformation, Cross-functional Project Delivery, Governance Implementation, Policy and Framework Development
+* Research and Evaluation: Mixed Methods Design, Execution, and Analysis (Surveys, Experiments, Interviews, Content Analysis, Ethnography, Computational Analysis) 
+* Technical and Systems Expertise: Python, R, SQL, ERP Systems (Healthcare, Workforce Management)
 
 Publications
 ======
