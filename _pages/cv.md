@@ -35,36 +35,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Awards
 ======
 * Best Paper Award, CSCW 2023, Data Subjects’ Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens
 * Honorable Mention for Best Paper Award, CSCW 2021, Data Subjects’ Conceptualizations of and Attitudes Toward Automatic Emotion Recognition-Enabled Wellbeing Interventions on Social Media
-
-Grants and Funding
-======
-* UMSI Merit Fellow, 2020-2021
-* USENIX Security Diversity Grant, 2020
-* UMSI PhD Travel Grant, 2020
-* UMSI PhD Travel Grant, 2021
-* UM Rackham Graduate Student Research Grant, 2021
-* UM Rackham Conference Travel Grant, 2023
-* UMSI PhD Travel Grant, 2023
-* USENIX GREPSEC VI Grant, 2023
-* IAPP Privacy, Security, and Risk Conference Scholarship, 2023
-* Gary Marsden Travel Award, 2023
-* UM Rackham Conference Travel Grant, 2024
-* PrivaCI Symposium Travel Award, 2025
-
-
-Service, Affiliations, and Membership
-======
-* The Center for Ethics, Society, and Computing, researcher
-* Association for Computing Machinery (ACM), member
 
 
