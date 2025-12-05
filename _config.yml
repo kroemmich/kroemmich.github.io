@@ -1,0 +1,12 @@
+title: Kat Roemmich, PhD
+description: Information Scientist · Human-AI Interaction · AI Governance · Privacy
+baseurl: "" 
+url: "https://kroemmich.github.io"
+
+theme: minima
+
+# Navigation links
+header_pages:
+  - index.md
+  - cv.md
+  - publications.md
