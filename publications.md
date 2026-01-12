@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Work Under Review
 
-- Kat Roemmich and Anonymous Author. Emotion Inferences in the Workplace and Healthcare: Workers’ and Patients’ Emotional Privacy Judgments and the Relative Influence of Contextual, Socio-demographic, and Individual Privacy Belief Factors. Under review at *ACM Transactions on Computer-Human Interaction (TOCHI)*. Pre-print available [here](https://kroemmich.github.io/files/TOCHI25_R_R__Emotion_Inferences___Workers__and_Patients__Emotional_Privacy_Perceptions_and_the_Influence_of_Contextual_and_Individual_Factors-1.pdf)
+- Kat Roemmich and Anonymous Author. Emotion Inferences in the Workplace and Healthcare: Workers’ and Patients’ Emotional Privacy Judgments and the Relative Influence of Contextual, Socio-demographic, and Individual Privacy Belief Factors. Under review at *ACM Transactions on Computer-Human Interaction (TOCHI)*. Pre-print available [here](https://kroemmich.github.io/files/TOCHI25_R_R__Emotion_Inferences___Workers__and_Patients__Emotional_Privacy_Perceptions_and_the_Influence_of_Contextual_and_Individual_Factors-1.pdf).
 
 ## Peer-Reviewed Conference Proceedings
 
@@ -14,7 +14,7 @@ permalink: /publications/
 
 ## Peer-Reviewed Journal and Magazine Articles
 
-- Kat Roemmich, Kirsten Martin, and Florian Schaub. 2026. CA-CI: Integrating Contextual Integrity and the Capabilities Approach for Dignity Considerations in AI Governance. _IEEE Security & Privacy (S&P)_ (in press). Pre-print available [here](https://kroemmich.github.io/files/SPSI_2025_CACI.pdf)
+- Kat Roemmich, Kirsten Martin, and Florian Schaub. 2026. CA-CI: Integrating Contextual Integrity and the Capabilities Approach for Dignity Considerations in AI Governance. _IEEE Security & Privacy (S&P)_ (in press). Pre-print available [here](https://kroemmich.github.io/files/SPSI_2025_CACI.pdf).
 
 - Cassidy Pyle, Kat Roemmich, and Nazanin Andalibi. 2024. U.S. Job-Seekers’ Organizational Justice Perceptions of Emotion AI-Enabled Asynchronous Interviews. _Proc. ACM Hum.-Comput. Interact_. 8, CSCW2, Article 454 (November 2024), 42 pages. [10.1145/3686993](https://doi.org/10.1145/3686993)
 
