@@ -14,7 +14,7 @@ permalink: /publications/
 
 ## Peer-Reviewed Journal and Magazine Articles
 
-- Kat Roemmich, Kirsten Martin, and Florian Schaub. 2026. CA-CI: Integrating Contextual Integrity and the Capabilities Approach for Dignity Considerations in AI Governance. _IEEE Security & Privacy (S&P)_ (in press). Pre-print available [here](https://kroemmich.github.io/files/SPSI_2025_CACI.pdf).
+- Kat Roemmich, Kirsten Martin, and Florian Schaub. 2026. CA-CI: Integrating Contextual Integrity and the Capabilities Approach for Dignity Considerations in AI Governance. _IEEE Security & Privacy (S&P)_ (in press). Pre-print available [here](https://kroemmich.github.io/files/SPSI_2025_10_0272_Roemmich_v2-1.pdf).
 
 - Cassidy Pyle, Kat Roemmich, and Nazanin Andalibi. 2024. U.S. Job-Seekers’ Organizational Justice Perceptions of Emotion AI-Enabled Asynchronous Interviews. _Proc. ACM Hum.-Comput. Interact_. 8, CSCW2, Article 454 (November 2024), 42 pages. [10.1145/3686993](https://doi.org/10.1145/3686993)
 
